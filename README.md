@@ -7,11 +7,11 @@ I’m a recent Computer Science graduate from **Acadia University** who enjoys t
 I like building things that are practical, simple, and actually useful.
 If I can automate it, improve it, or make it less messy, I probably will.
 
-## 📈 What I’m Currently Working On
+## 📈 What I’m Currently Working On:
 * Exploring opportunities in **Software Development and Early Career Roles**
 * Strengthening backend, API design, and system-level thinking
 * Building tools that combine **automation + user-focused design**
-## ⚡ Fun Fact
+## ⚡ Fun Facts:
 * I’m the friend who says “let’s just go see what’s there” with zero actual plan.
 * Dragon ball Z is my favorite anime.
 * Hobbies: Gym, Pickleball, Hiking.
