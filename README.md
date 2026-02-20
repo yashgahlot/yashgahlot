@@ -4,7 +4,8 @@
 
 I’m a recent Computer Science graduate from **Acadia University** who enjoys turning messy, real-world problems into clean, reliable software. I like working across the stack, understanding how systems connect end-to-end, and building tools that people actually use.
 
----
+I like building things that are practical, simple, and actually useful.
+If I can automate it, improve it, or make it less messy, I probably will.
 
 ## 🚀 About Me
 
@@ -14,41 +15,6 @@ I’m a recent Computer Science graduate from **Acadia University** who enjoys t
 * 🤝 Strong believer in collaborative development and clear communication
 * 📍 Based in Halifax, Nova Scotia
 
-I enjoy roles where I can bridge **technical implementation + real user needs**.
-
----
-
-## 💻 Technical Skills
-
-**Languages**
-
-* Python
-* JavaScript / TypeScript
-* Java
-* SQL
-
-**Development**
-
-* Node.js
-* React / Next.js
-* REST API Design
-* Full-Stack Application Development
-
-**Databases**
-
-* MySQL
-* MongoDB
-* Relational Data Modeling
-* Query Optimization
-
-**Tools & Practices**
-
-* Git / GitHub
-* Agile / Scrum Workflows
-* Automation & Scripting
-* Documentation & Process Design
-
----
 
 ## 📈 What I’m Currently Working On
 
@@ -59,20 +25,10 @@ I enjoy roles where I can bridge **technical implementation + real user needs**.
 ---
 
 ## 🤝 Let’s Connect
-
 * 💼 LinkedIn: *(https://www.linkedin.com/in/yashgahlot07/)*
 * 📫 Email: *(0308264g@acadiau.ca)*
 * 🌐 Portfolio: *(https://yashgahlot.netlify.app/)*
-
-I’m always open to conversations about:
-
-* New Grad roles
-* Interesting product ideas
-* Collaboration opportunities
-* Tech that solves real problems
-
 ---
-
 ## ⚡ Fun Fact
 
 * I’m the friend who says “let’s just go see what’s there” with zero actual plan.
