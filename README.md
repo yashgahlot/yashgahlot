@@ -1,4 +1,94 @@
-## Hi there 👋
+# Hi, I'm Yash Gahlot 👋
+
+**Software Developer | Problem Solver | Builder of Practical Tech**
+
+I’m a recent Computer Science graduate from **Acadia University** who enjoys turning messy, real-world problems into clean, reliable software. I like working across the stack, understanding how systems connect end-to-end, and building tools that people actually use.
+
+---
+
+## 🚀 About Me
+
+* 🎓 B.Sc. in Computer Science, Acadia University (2025)
+* 💼 Experience across software development, data systems, and technical coordination
+* 🛠 Hands-on work with full-stack apps, automation tools, and data workflows during co-ops and roles
+* 🤝 Strong believer in collaborative development and clear communication
+* 📍 Based in Halifax, Nova Scotia
+
+I enjoy roles where I can bridge **technical implementation + real user needs**.
+
+---
+
+## 💻 Technical Skills
+
+**Languages**
+
+* Python
+* JavaScript / TypeScript
+* Java
+* SQL
+
+**Development**
+
+* Node.js
+* React / Next.js
+* REST API Design
+* Full-Stack Application Development
+
+**Databases**
+
+* MySQL
+* MongoDB
+* Relational Data Modeling
+* Query Optimization
+
+**Tools & Practices**
+
+* Git / GitHub
+* Agile / Scrum Workflows
+* Automation & Scripting
+* Documentation & Process Design
+
+---
+
+## 📈 What I’m Currently Working On
+
+* Exploring opportunities in **Software Development and Early Career Roles**
+* Strengthening backend, API design, and system-level thinking
+* Building tools that combine **automation + user-focused design**
+
+---
+
+## 🤝 Let’s Connect
+
+* 💼 LinkedIn: *(https://www.linkedin.com/in/yashgahlot07/)*
+* 📫 Email: *(0308264g@acadiau.ca)*
+* 🌐 Portfolio: *(https://yashgahlot.netlify.app/)*
+
+I’m always open to conversations about:
+
+* New Grad roles
+* Interesting product ideas
+* Collaboration opportunities
+* Tech that solves real problems
+
+---
+
+## ⚡ Fun Fact
+
+* I’m the friend who says “let’s just go see what’s there” with zero actual plan.
+* Dragon ball Z is my favorite anime.
+* Hobbies: Gym, Pickleball, hiking.
+---
+
+⭐️ *Feel free to explore my repositories and reach out if something resonates!*
+
+
+
+
+
+
+
+
 
 <!--
 **yashgahlot/yashgahlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
