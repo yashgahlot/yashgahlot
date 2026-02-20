@@ -15,6 +15,7 @@ If I can automate it, improve it, or make it less messy, I probably will.
 * I’m the friend who says “let’s just go see what’s there” with zero actual plan.
 * Dragon ball Z is my favorite anime.
 * Hobbies: Gym, Pickleball, Hiking.
+
 ⭐️ *Feel free to explore my repositories and reach out if something resonates!*
 
 
